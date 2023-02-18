@@ -5,7 +5,7 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 experience in creating a SPA, from scratch, with webpack setup and all dependencies ( Webpack / React / Redux / TS). Now I am improving my skills in
 this direction and expanding them with new technologies (Next JS). Ready to consider project work and full-time employment.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sergeysaprankov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeysaprankov1992@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-saprankovsergey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sergeysaprankov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeysaprankov1992@gmail.com)
 
 ---
 
