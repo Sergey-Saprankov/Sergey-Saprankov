@@ -52,8 +52,7 @@
 ---
 
 ### 💻 Codewars:
-
-                                    ![codewars](https://www.codewars.com/users/Sergey-Saprankov/badges/large)
+![codewars](https://www.codewars.com/users/Sergey-Saprankov/badges/large)
 
 
 
