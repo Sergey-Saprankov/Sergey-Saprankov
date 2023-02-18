@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">A beginner frontend developer from Belarus</h3>
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sergeysaprankov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeysaprankov1992@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-sergeysaprankov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sergeysaprankov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeysaprankov1992@gmail.com)
 
 ---
 
