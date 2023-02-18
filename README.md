@@ -53,7 +53,7 @@
 
 ### 💻 Codewars:
 
-  <div align="center"><a>![codewars](https://www.codewars.com/users/Sergey-Saprankov/badges/large)</a></div>
+  ![codewars](https://www.codewars.com/users/Sergey-Saprankov/badges/large)
 
 
 
