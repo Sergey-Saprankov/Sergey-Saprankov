@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sergey, a beginner web developer 👨‍💻 </div>  
+### <div align="left">I'm Sergey, a beginner web developer 👨‍💻 </div>  
   
 
 <br/>  
@@ -15,7 +15,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -33,7 +33,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/Sergey-Saprankov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -47,7 +47,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sergey-Saprankov&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sergey-Saprankov&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ---
 
