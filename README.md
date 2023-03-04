@@ -3,10 +3,10 @@
 
 <div align="center">
    <a href="https://www.linkedin.com/in/sergey-saprankov/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-lightBlue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/sergeysaprankov" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-darkBlue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:sergeysaprankov1992@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
