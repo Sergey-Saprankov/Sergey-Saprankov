@@ -40,7 +40,7 @@
 
 <h3 align="center">Most Used Languages</h3>
 <div align="center"> 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Saprankov&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Saprankov&theme=tokyonight)
 </div>
 
 <h3 align="center">Stats</h3>
