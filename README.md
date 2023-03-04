@@ -38,6 +38,10 @@
    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 </div>
 
+<h3 align="center">Most Used Languages</h3>
+<div align="center"> 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Saprankov&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h3 align="center">Stats</h3>
 <div align="center"> 
