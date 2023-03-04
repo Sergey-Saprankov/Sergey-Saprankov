@@ -31,7 +31,7 @@
 <h3 align="center">Codewars</h3>  
 <div align="center">
   
-[![codewars](https://www.codewars.com/users/Sergey-Saprankov/badges/large)](https://www.codewars.com/users/Sergey-Saprankov)
+![Codewars](https://github.r2v.ch/codewars?user=Sergey-Saprankov&stroke=%23BB432C)
   
 </div>
 
