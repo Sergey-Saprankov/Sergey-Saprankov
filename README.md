@@ -2,7 +2,15 @@
 <h3 align="center">A junior frontend developer from Belarus</h3>
 
 <div align="center">
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-sergeysaprankov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sergeysaprankov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeysaprankov1992@gmail.com)
+   <a href="https://www.linkedin.com/in/sergey-saprankov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/sergeysaprankov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-darkgreen?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:sergeysaprankov1992@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-darkgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+  </a>
 </div>
 ---
 
