@@ -2,6 +2,7 @@
 <h3 align="center">A junior frontend developer from Belarus</h3>
 
 <div align="center">
+   <h3 align="center">Contacts</h3>
    <a href="https://www.linkedin.com/in/sergey-saprankov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
