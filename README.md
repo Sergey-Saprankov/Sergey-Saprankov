@@ -39,8 +39,10 @@
 </div>
 
 <h3 align="center">Most Used Languages</h3>
-<div align="center"> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Saprankov&theme=tokyonight)
+<div align="center">
+  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Saprankov&theme=tokyonight)
+  
 </div>
 
 <h3 align="center">Stats</h3>
@@ -56,5 +58,3 @@
 ![Codewars](https://github.r2v.ch/codewars?user=Sergey-Saprankov&stroke=%23BB432C)
   
 </div>
-
-
